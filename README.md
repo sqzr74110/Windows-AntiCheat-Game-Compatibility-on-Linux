@@ -13,7 +13,7 @@
 👉 **所有数据请统一填写在 GitHub Projects 的表格中：**
 
 🔗 **Compatibility Table (GitHub Project)**  
-https://github.com/sqzr74110/Windows-AntiCheat-Game-Compatibility-on-Linux/projects
+https://github.com/users/sqzr74110/projects/3
 
 > 每一行代表一个游戏  
 > `Title` 字段即 **Game Title（游戏名称）**
